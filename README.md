@@ -1,2 +1,2 @@
 # 100-days-Scikit-Learn-Tutorials-
-Scikit-Learn Tutorials with 200 videos and lectures
+Scikit-Learn Tutorials with 100 videos and lectures
